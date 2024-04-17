@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4519617F-C162-4534-8B0D-2E55341FBA42}|PrimoQ\\PrimoQ.csproj|c:\\users\\rever\\documents\\github\\poods23q1sem24\\primoq\\primoq\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4519617F-C162-4534-8B0D-2E55341FBA42}|PrimoQ\\PrimoQ.csproj|solutionrelative:primoq\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4519617F-C162-4534-8B0D-2E55341FBA42}|PrimoQ\\PrimoQ.csproj|c:\\users\\rever\\documents\\github\\poods23q1sem24\\primoq\\primoq\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4519617F-C162-4534-8B0D-2E55341FBA42}|PrimoQ\\PrimoQ.csproj|solutionrelative:primoq\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4519617F-C162-4534-8B0D-2E55341FBA42}|PrimoQ\\PrimoQ.csproj|c:\\users\\rever\\documents\\github\\poods23q1sem24\\primoq\\primoq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4519617F-C162-4534-8B0D-2E55341FBA42}|PrimoQ\\PrimoQ.csproj|solutionrelative:primoq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4519617F-C162-4534-8B0D-2E55341FBA42}|PrimoQ\\PrimoQ.csproj|c:\\users\\rever\\documents\\github\\poods23q1sem24\\primoq\\primoq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4519617F-C162-4534-8B0D-2E55341FBA42}|PrimoQ\\PrimoQ.csproj|solutionrelative:primoq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4519617F-C162-4534-8B0D-2E55341FBA42}|PrimoQ\\PrimoQ.csproj|c:\\users\\rever\\documents\\github\\poods23q1sem24\\primoq\\primoq\\modelo\\primo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4519617F-C162-4534-8B0D-2E55341FBA42}|PrimoQ\\PrimoQ.csproj|solutionrelative:primoq\\modelo\\primo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQ\\PrimoQ\\Form1.cs",
+              "RelativeDocumentMoniker": "PrimoQ\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQ\\PrimoQ\\Form1.cs",
+              "RelativeToolTip": "PrimoQ\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T22:48:08.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controle.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQ\\PrimoQ\\modelo\\Controle.cs",
+              "RelativeDocumentMoniker": "PrimoQ\\modelo\\Controle.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQ\\PrimoQ\\modelo\\Controle.cs",
+              "RelativeToolTip": "PrimoQ\\modelo\\Controle.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAMwBkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T23:27:01.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Validacao.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQ\\PrimoQ\\modelo\\Validacao.cs",
+              "RelativeDocumentMoniker": "PrimoQ\\modelo\\Validacao.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQ\\PrimoQ\\modelo\\Validacao.cs",
+              "RelativeToolTip": "PrimoQ\\modelo\\Validacao.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T23:26:53.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Primo.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQ\\PrimoQ\\modelo\\Primo.cs",
+              "RelativeDocumentMoniker": "PrimoQ\\modelo\\Primo.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQ\\PrimoQ\\modelo\\Primo.cs",
+              "RelativeToolTip": "PrimoQ\\modelo\\Primo.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T23:26:42.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQ\\PrimoQ\\Form1.cs",
+              "RelativeDocumentMoniker": "PrimoQ\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQ\\PrimoQ\\Form1.cs [Projeto]",
+              "RelativeToolTip": "PrimoQ\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T23:22:26.172Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

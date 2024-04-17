@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\Calculadora23Q\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC4CFF5-5AF0-4C5B-87DE-C64A62FB43FE}|Calculadora23Q\\Calculadora23Q.csproj|c:\\users\\rever\\documents\\github\\poods23q1sem24\\calculadora23q\\calculadora23q\\modelo\\calculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC4CFF5-5AF0-4C5B-87DE-C64A62FB43FE}|Calculadora23Q\\Calculadora23Q.csproj|solutionrelative:calculadora23q\\modelo\\calculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC4CFF5-5AF0-4C5B-87DE-C64A62FB43FE}|Calculadora23Q\\Calculadora23Q.csproj|c:\\users\\rever\\documents\\github\\poods23q1sem24\\calculadora23q\\calculadora23q\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC4CFF5-5AF0-4C5B-87DE-C64A62FB43FE}|Calculadora23Q\\Calculadora23Q.csproj|solutionrelative:calculadora23q\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC4CFF5-5AF0-4C5B-87DE-C64A62FB43FE}|Calculadora23Q\\Calculadora23Q.csproj|c:\\users\\rever\\documents\\github\\poods23q1sem24\\calculadora23q\\calculadora23q\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC4CFF5-5AF0-4C5B-87DE-C64A62FB43FE}|Calculadora23Q\\Calculadora23Q.csproj|solutionrelative:calculadora23q\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC4CFF5-5AF0-4C5B-87DE-C64A62FB43FE}|Calculadora23Q\\Calculadora23Q.csproj|c:\\users\\rever\\documents\\github\\poods23q1sem24\\calculadora23q\\calculadora23q\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC4CFF5-5AF0-4C5B-87DE-C64A62FB43FE}|Calculadora23Q\\Calculadora23Q.csproj|solutionrelative:calculadora23q\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC4CFF5-5AF0-4C5B-87DE-C64A62FB43FE}|Calculadora23Q\\Calculadora23Q.csproj|c:\\users\\rever\\documents\\github\\poods23q1sem24\\calculadora23q\\calculadora23q\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FC4CFF5-5AF0-4C5B-87DE-C64A62FB43FE}|Calculadora23Q\\Calculadora23Q.csproj|solutionrelative:calculadora23q\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Controle.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\Calculadora23Q\\Calculadora23Q\\modelo\\Controle.cs",
+              "RelativeDocumentMoniker": "Calculadora23Q\\modelo\\Controle.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\Calculadora23Q\\Calculadora23Q\\modelo\\Controle.cs",
+              "RelativeToolTip": "Calculadora23Q\\modelo\\Controle.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAMwBwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:36:24.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculos.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\Calculadora23Q\\Calculadora23Q\\modelo\\Calculos.cs",
+              "RelativeDocumentMoniker": "Calculadora23Q\\modelo\\Calculos.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\Calculadora23Q\\Calculadora23Q\\modelo\\Calculos.cs",
+              "RelativeToolTip": "Calculadora23Q\\modelo\\Calculos.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:36:24.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\Calculadora23Q\\Calculadora23Q\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculadora23Q\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\Calculadora23Q\\Calculadora23Q\\Form1.cs",
+              "RelativeToolTip": "Calculadora23Q\\Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:36:24.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\Calculadora23Q\\Calculadora23Q\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculadora23Q\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\Calculadora23Q\\Calculadora23Q\\Form1.cs",
+              "RelativeToolTip": "Calculadora23Q\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:36:24.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Validacao.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\Calculadora23Q\\Calculadora23Q\\modelo\\Validacao.cs",
+              "RelativeDocumentMoniker": "Calculadora23Q\\modelo\\Validacao.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\Calculadora23Q\\Calculadora23Q\\modelo\\Validacao.cs",
+              "RelativeToolTip": "Calculadora23Q\\modelo\\Validacao.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:36:24.604Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

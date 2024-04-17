@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQHeranca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4519617F-C162-4534-8B0D-2E55341FBA42}|PrimoQ\\PrimoQ.csproj|c:\\users\\rever\\documents\\github\\poods23q1sem24\\primoqheranca\\primoq\\modelo\\primo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4519617F-C162-4534-8B0D-2E55341FBA42}|PrimoQ\\PrimoQ.csproj|solutionrelative:primoq\\modelo\\primo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4519617F-C162-4534-8B0D-2E55341FBA42}|PrimoQ\\PrimoQ.csproj|c:\\users\\rever\\documents\\github\\poods23q1sem24\\primoqheranca\\primoq\\modelo\\abspropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4519617F-C162-4534-8B0D-2E55341FBA42}|PrimoQ\\PrimoQ.csproj|solutionrelative:primoq\\modelo\\abspropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4519617F-C162-4534-8B0D-2E55341FBA42}|PrimoQ\\PrimoQ.csproj|c:\\users\\rever\\documents\\github\\poods23q1sem24\\primoqheranca\\primoq\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4519617F-C162-4534-8B0D-2E55341FBA42}|PrimoQ\\PrimoQ.csproj|solutionrelative:primoq\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4519617F-C162-4534-8B0D-2E55341FBA42}|PrimoQ\\PrimoQ.csproj|c:\\users\\rever\\documents\\github\\poods23q1sem24\\primoqheranca\\primoq\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4519617F-C162-4534-8B0D-2E55341FBA42}|PrimoQ\\PrimoQ.csproj|solutionrelative:primoq\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4519617F-C162-4534-8B0D-2E55341FBA42}|PrimoQ\\PrimoQ.csproj|c:\\users\\rever\\documents\\github\\poods23q1sem24\\primoqheranca\\primoq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4519617F-C162-4534-8B0D-2E55341FBA42}|PrimoQ\\PrimoQ.csproj|solutionrelative:primoq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4519617F-C162-4534-8B0D-2E55341FBA42}|PrimoQ\\PrimoQ.csproj|c:\\users\\rever\\documents\\github\\poods23q1sem24\\primoqheranca\\primoq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4519617F-C162-4534-8B0D-2E55341FBA42}|PrimoQ\\PrimoQ.csproj|solutionrelative:primoq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Controle.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQHeranca\\PrimoQ\\modelo\\Controle.cs",
+              "RelativeDocumentMoniker": "PrimoQ\\modelo\\Controle.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQHeranca\\PrimoQ\\modelo\\Controle.cs",
+              "RelativeToolTip": "PrimoQ\\modelo\\Controle.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:10:41.126Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AbsPropriedades.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQHeranca\\PrimoQ\\modelo\\AbsPropriedades.cs",
+              "RelativeDocumentMoniker": "PrimoQ\\modelo\\AbsPropriedades.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQHeranca\\PrimoQ\\modelo\\AbsPropriedades.cs",
+              "RelativeToolTip": "PrimoQ\\modelo\\AbsPropriedades.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:27:46.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQHeranca\\PrimoQ\\Form1.cs",
+              "RelativeDocumentMoniker": "PrimoQ\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQHeranca\\PrimoQ\\Form1.cs [Projeto]",
+              "RelativeToolTip": "PrimoQ\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:13:49.648Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Validacao.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQHeranca\\PrimoQ\\modelo\\Validacao.cs",
+              "RelativeDocumentMoniker": "PrimoQ\\modelo\\Validacao.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQHeranca\\PrimoQ\\modelo\\Validacao.cs",
+              "RelativeToolTip": "PrimoQ\\modelo\\Validacao.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:10:45.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Primo.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQHeranca\\PrimoQ\\modelo\\Primo.cs",
+              "RelativeDocumentMoniker": "PrimoQ\\modelo\\Primo.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQHeranca\\PrimoQ\\modelo\\Primo.cs",
+              "RelativeToolTip": "PrimoQ\\modelo\\Primo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:10:43.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQHeranca\\PrimoQ\\Form1.cs",
+              "RelativeDocumentMoniker": "PrimoQ\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rever\\Documents\\GitHub\\poods23q1sem24\\PrimoQHeranca\\PrimoQ\\Form1.cs",
+              "RelativeToolTip": "PrimoQ\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:14:12.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

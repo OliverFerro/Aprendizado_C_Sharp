@@ -1,0 +1,17 @@
+C:\Users\Rever\Documents\GitHub\poods23q1sem24\PrimoQ\PrimoQ\bin\Debug\net7.0-windows\PrimoQ.exe
+C:\Users\Rever\Documents\GitHub\poods23q1sem24\PrimoQ\PrimoQ\bin\Debug\net7.0-windows\PrimoQ.deps.json
+C:\Users\Rever\Documents\GitHub\poods23q1sem24\PrimoQ\PrimoQ\bin\Debug\net7.0-windows\PrimoQ.runtimeconfig.json
+C:\Users\Rever\Documents\GitHub\poods23q1sem24\PrimoQ\PrimoQ\bin\Debug\net7.0-windows\PrimoQ.dll
+C:\Users\Rever\Documents\GitHub\poods23q1sem24\PrimoQ\PrimoQ\bin\Debug\net7.0-windows\PrimoQ.pdb
+C:\Users\Rever\Documents\GitHub\poods23q1sem24\PrimoQ\PrimoQ\obj\Debug\net7.0-windows\PrimoQ.Form1.resources
+C:\Users\Rever\Documents\GitHub\poods23q1sem24\PrimoQ\PrimoQ\obj\Debug\net7.0-windows\PrimoQ.csproj.GenerateResource.cache
+C:\Users\Rever\Documents\GitHub\poods23q1sem24\PrimoQ\PrimoQ\obj\Debug\net7.0-windows\PrimoQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rever\Documents\GitHub\poods23q1sem24\PrimoQ\PrimoQ\obj\Debug\net7.0-windows\PrimoQ.AssemblyInfoInputs.cache
+C:\Users\Rever\Documents\GitHub\poods23q1sem24\PrimoQ\PrimoQ\obj\Debug\net7.0-windows\PrimoQ.AssemblyInfo.cs
+C:\Users\Rever\Documents\GitHub\poods23q1sem24\PrimoQ\PrimoQ\obj\Debug\net7.0-windows\PrimoQ.csproj.CoreCompileInputs.cache
+C:\Users\Rever\Documents\GitHub\poods23q1sem24\PrimoQ\PrimoQ\obj\Debug\net7.0-windows\PrimoQ.sourcelink.json
+C:\Users\Rever\Documents\GitHub\poods23q1sem24\PrimoQ\PrimoQ\obj\Debug\net7.0-windows\PrimoQ.dll
+C:\Users\Rever\Documents\GitHub\poods23q1sem24\PrimoQ\PrimoQ\obj\Debug\net7.0-windows\refint\PrimoQ.dll
+C:\Users\Rever\Documents\GitHub\poods23q1sem24\PrimoQ\PrimoQ\obj\Debug\net7.0-windows\PrimoQ.pdb
+C:\Users\Rever\Documents\GitHub\poods23q1sem24\PrimoQ\PrimoQ\obj\Debug\net7.0-windows\PrimoQ.genruntimeconfig.cache
+C:\Users\Rever\Documents\GitHub\poods23q1sem24\PrimoQ\PrimoQ\obj\Debug\net7.0-windows\ref\PrimoQ.dll
